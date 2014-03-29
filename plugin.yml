@@ -1,0 +1,5 @@
+name: BloodParticles2.1
+author: CosmicReaperMC
+version: 2.1
+description: Add Blood Particles to your Game, Developed by CosmicReaperMC
+main: me.CosmicReaperMC.BloodParticles.BloodBase
