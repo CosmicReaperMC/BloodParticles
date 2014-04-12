@@ -1,0 +1,9 @@
+name: BloodParticles
+author: CosmicReaperMC
+version: 3.1
+description: Add Blood Particles to your Game, Developed by CosmicReaperMC
+main: me.CosmicReaperMC.BloodParticles.BloodBase
+
+commands:
+    blood:
+        description: Base Command for Blood Particles
